@@ -1,0 +1,31 @@
+
+.item{
+    width: 28%;
+    height: 200px;
+    background-color: rgb(190, 236, 222);
+    margin: 20px;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.item_1{
+    width: 28%;
+    height: 150px;
+    background-color: bisque;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.item_text{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 10px;
+    background-color: yellowgreen;
+    margin: 10px;
+}
